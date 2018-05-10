@@ -1,0 +1,20 @@
+name: BedFightX
+version: b1.0
+api: ["1.0.0"]
+author: EliasKleppinger
+website: http://snax.ga
+description: A BedWars Plugin for Nukkit
+main: de.eliaskleppinger.bedfightx.Core
+
+commands:
+  setspawn:
+    description: Sets the Spawn for a Team (Green,Yellow,Blue,Red)
+  setlobby:
+    description: Sets the MainLobby Location
+  setspawner:
+    description: Sets a Spawner (1-4) Of a Type(Gold,Bronze,Iron)
+  setbed:
+    description: Sets a Bed of a Team (Green,Yellow,Blue,Red)
+  setspec:
+    description: Sets the Spectator Spawn
+    
