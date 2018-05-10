@@ -1,6 +1,10 @@
 # BedFightX
 A BedWars Plugin for Nukkit(X)
 
+# Disclaimer
+The Plugin is currently In development.
+If i make big changes (new classes, etc.), i upload it.
+
 # Information
 This Plugin isnt for Bukkit. This is for Nukkit(Minecraft Bedrock Edition).
 
